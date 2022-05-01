@@ -22,7 +22,7 @@ I'm Cosimo Giovanni Negri, a Computer Engineering student at Politecnico di Mila
 ---
 
 - [Chess Game](https://github.com/cosimonegri/chess) - a python desktop app to play chess in single-player or multi-player
-- [Inverse Matrix](https://github.com/cosimonegri/inverse-matrix) - a simple C script to invert a matrix using the cofactors method.
+- [Inverse Matrix](https://github.com/cosimonegri/inverse-matrix) - a simple C script to invert a matrix using the cofactors method
 
 <br />
 <p align="center"> <b>📢 Contacts</b> </p>
