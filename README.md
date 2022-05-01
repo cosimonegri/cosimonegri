@@ -16,6 +16,7 @@ class Cosimo:
 I'm Cosimo Giovanni Negri, a Computer Engineering student at Politecnico di Milano. I'm very interested in topics like cryptocurrencies and artificial intelligence.
 
 <br />
+<br />
 <p align="center"> <b>🔨 Projects</b> </p>
 
 ---
