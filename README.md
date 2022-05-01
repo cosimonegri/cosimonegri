@@ -1,16 +1,62 @@
-### Hi there 👋
+<h2 align="center"> <b>Hi there, nice to meet you! 👋</b> </h2>
 
-<!--
-**cosimonegri/cosimonegri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+```python
+class Cosimo:
+  def __init__(self):
+    self.name = 'Cosimo Giovanni'
+    self.surname = 'Negri'
+    self.education = {'BSc in Computer Engineering': 'PoliMi'}
+    self.interests = ['Cryptocurrencies', 'Artificil Intelligence', 'Finance']
+    self.hobbys = ['Music', 'Reading']
+```
 
+I'm Cosimo Giovanni Negri, a Computer Engineering student at Politecnico di Milano. I'm very interested in topics like cryptocurrencies and artificial intelligence.
+
+<!---
+<p align="center"> <b>🎓 Education</b> </p>
+
+---
+--->
+
+<!---
+<p align="center"> <b>Experience</b> </p>
+
+---
+--->
+
+<!--- Write a longer description --->
+
+<p align="center"> <b>🔨 Projects</b> </p>
+
+<!---
+When there will be too many, change to "Most interesting projects"
+--->
+
+---
+
+- [Chess Game](https://github.com/cosimonegri/chess) - a python desktop app to play chess in single-player or multi-player
+
+<!---
+<p align="center"> <b>👦 About me</b> </p>
+
+---
+
+- 🌱 I’m currently learning how to get prepared for a job interview
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎵 I listen to a lot of music
+- 📚 I'm currently reading ....., by .....
+
+--->
+
+<p align="center"> <b>📢 Contacts</b> </p>
+
+---
+
+<div align=center>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cosimogiovanninegri)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cosimogiovanni@gmail.com)
+
+<div>
