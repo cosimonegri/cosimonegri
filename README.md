@@ -1,4 +1,6 @@
-<h2 align="center"> <b>Hi there, nice to meet you! 👋</b> </h2>
+<h3 align="center"> <b>Hi there, nice to meet you! 👋</b> </h3>
+
+---
 
 ```python
 class Cosimo:
