@@ -12,22 +12,24 @@ class Cosimo:
     self.hobbys = ['Music', 'Reading']
 ```
 
+<br />
 I'm Cosimo Giovanni Negri, a Computer Engineering student at Politecnico di Milano. I'm very interested in topics like cryptocurrencies and artificial intelligence.
 
 <!---
+<br />
 <p align="center"> <b>🎓 Education</b> </p>
 
 ---
 --->
 
 <!---
+<br />
 <p align="center"> <b>Experience</b> </p>
 
 ---
 --->
 
-<!--- Write a longer description --->
-
+<br />
 <p align="center"> <b>🔨 Projects</b> </p>
 
 <!---
@@ -39,6 +41,7 @@ When there will be too many, change to "Most interesting projects"
 - [Chess Game](https://github.com/cosimonegri/chess) - a python desktop app to play chess in single-player or multi-player
 
 <!---
+<br />
 <p align="center"> <b>👦 About me</b> </p>
 
 ---
@@ -50,6 +53,7 @@ When there will be too many, change to "Most interesting projects"
 
 --->
 
+<br />
 <p align="center"> <b>📢 Contacts</b> </p>
 
 ---
