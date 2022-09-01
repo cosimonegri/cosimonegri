@@ -22,6 +22,7 @@ I'm Cosimo Giovanni Negri, a Computer Engineering student at Politecnico di Mila
 ---
 
 - [Pathfinding Visualizer](https://github.com/cosimonegri/pathfinding-visualizer) - a react app to visualize the most common pathfinding and maze generation algorithms
+- [Data Structures](https://github.com/cosimonegri/data-structures) - python implementations of common data structures
 - [Chess Game](https://github.com/cosimonegri/chess) - a python desktop app to play chess in single-player or multi-player
 - [Inverse Matrix](https://github.com/cosimonegri/inverse-matrix) - a simple C script to invert a matrix using the cofactors method
 
