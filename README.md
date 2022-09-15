@@ -13,7 +13,7 @@ class Cosimo:
 ```
 
 <br />
-I'm Cosimo Giovanni Negri, a second year `Computer Engineering student` at Politecnico di Milano.
+I'm Cosimo Giovanni Negri, a second year [`Computer Engineering student`] at Politecnico di Milano.
 
 <br />
 <br />
