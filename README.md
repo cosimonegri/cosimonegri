@@ -9,11 +9,11 @@ class Cosimo:
     self.surname = 'Negri'
     self.education = {'BSc in Computer Engineering': 'PoliMi'}
     self.interests = ['Cryptocurrencies', 'Artificil Intelligence', 'Finance']
-    self.hobbys = ['Music', 'Reading']
+    self.hobbys = ['Running', 'Rubik's Cube', 'Reading', 'Music']
 ```
 
 <br />
-I'm Cosimo Giovanni Negri, a Computer Engineering student at Politecnico di Milano. I'm very interested in topics like cryptocurrencies and artificial intelligence.
+I'm Cosimo Giovanni Negri, a second year `Computer Engineering student` at Politecnico di Milano.
 
 <br />
 <br />
@@ -21,10 +21,11 @@ I'm Cosimo Giovanni Negri, a Computer Engineering student at Politecnico di Mila
 
 ---
 
-- [Pathfinding Visualizer](https://github.com/cosimonegri/pathfinding-visualizer) - a react app to visualize the most common pathfinding and maze generation algorithms
-- [Data Structures](https://github.com/cosimonegri/data-structures) - python implementations of common data structures
-- [Chess Game](https://github.com/cosimonegri/chess) - a python desktop app to play chess in single-player or multi-player
-- [Inverse Matrix](https://github.com/cosimonegri/inverse-matrix) - a simple C script to invert a matrix using the cofactors method
+- [`Easy.do`](https://github.com/cosimonegri/easy-do) - a react web app to keep track of tasks and create collaborative projects
+- [`Pathfinding Visualizer`](https://github.com/cosimonegri/pathfinding-visualizer) - a react web app to visualize the most common pathfinding and maze generation algorithms
+- [`Chess Game`](https://github.com/cosimonegri/chess) - a python desktop app to play chess in single-player or multi-player
+- [`Data Structures`](https://github.com/cosimonegri/data-structures) - python implementation of some of the most common data structures
+- [`Inverse Matrix`](https://github.com/cosimonegri/inverse-matrix) - a simple C script to invert a matrix using the cofactors method
 
 <br />
 <p align="center"> <b>📢 Contacts</b> </p>
