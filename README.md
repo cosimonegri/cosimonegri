@@ -5,15 +5,15 @@
 ```python
 class Cosimo:
   def __init__(self):
-    self.name = 'Cosimo Giovanni'
-    self.surname = 'Negri'
-    self.education = {'BSc in Computer Engineering': 'PoliMi'}
-    self.interests = ['Cryptocurrencies', 'Artificil Intelligence', 'Finance']
-    self.hobbys = ['Running', 'Rubiks Cube', 'Reading', 'Music']
+    self.name = "Cosimo Giovanni"
+    self.surname = "Negri"
+    self.education = {"BSc in Computer Engineering": "PoliMi"}
+    self.interests = ["Cryptocurrencies", "Artificil Intelligence", "Finance"]
+    self.hobbys = ["Running', "Rubik's Cube", "Reading", "Music"]
 ```
 
 <br />
-I'm Cosimo Giovanni Negri, a second year [`Computer Engineering student`] at Politecnico di Milano.
+I'm Cosimo Giovanni Negri, a second year Computer Engineering student at Politecnico di Milano.
 
 <br />
 <br />
