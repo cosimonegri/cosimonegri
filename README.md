@@ -9,7 +9,7 @@ class Cosimo:
     self.surname = 'Negri'
     self.education = {'BSc in Computer Engineering': 'PoliMi'}
     self.interests = ['Cryptocurrencies', 'Artificil Intelligence', 'Finance']
-    self.hobbys = ['Running', 'Rubik's Cube', 'Reading', 'Music']
+    self.hobbys = ['Running', 'Rubik\'s Cube', 'Reading', 'Music']
 ```
 
 <br />
