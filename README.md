@@ -36,6 +36,6 @@ I'm Cosimo Giovanni Negri, a passionate Software Engineer. I am currently pursui
 <div align=center>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cosimogiovanninegri)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cosimogiovanni@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cosimogiovanninegri@gmail.com)
 
 <div>
