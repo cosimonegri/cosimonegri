@@ -24,9 +24,8 @@ I'm Cosimo Giovanni Negri, a passionate Software Engineer. I am currently pursui
 
 - [`Archduchess`](https://github.com/cosimonegri/Archduchess) - chess engine with a ~2050 elo rating
 - [`Pathfinding Visualizer`](https://github.com/cosimonegri/pathfinding-visualizer) - web app to visualize the most common pathfinding and maze generation algorithms
+- [`Codex Naturalis`](https://github.com/cosimonegri/ing-sw-2024-lovino-mierlita-negri-orizio) - desktop application to play the board game Codex Naturalis
 - [`Easy.do`](https://github.com/cosimonegri/easy-do) - web app to keep track of tasks and create collaborative projects
-- [`Data Structures`](https://github.com/cosimonegri/data-structures) - python implementation of some of the most common data structures
-- [`Inverse Matrix`](https://github.com/cosimonegri/inverse-matrix) - simple script to invert a matrix using the cofactors method
 
 <br />
 <p align="center"> <b>📢 Contacts</b> </p>
