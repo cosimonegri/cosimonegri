@@ -18,7 +18,7 @@ I'm Cosimo Giovanni Negri, a passionate Software Engineer. I am currently pursui
 
 <br />
 <br />
-<p align="center"> <b>🔨 Extracurricular Projects</b> </p>
+<p align="center"> <b>🔨 Projects</b> </p>
 
 ---
 
