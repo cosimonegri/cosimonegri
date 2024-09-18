@@ -9,7 +9,6 @@ class Cosimo:
     self.surname = "Negri"
     self.experience = {"Datadog": "Software Engineer Intern"}
     self.education = {"BSc in Computer Engineering": "PoliMi", "MSc in Computer Science and Engineering": "PoliMi"}
-    self.interests = ["Cryptocurrencies", "Artificil Intelligence", "Finance"]
     self.hobbys = ["Running", "Chess", "Rubik's Cube", "Music"]
 ```
 
