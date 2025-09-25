@@ -7,8 +7,8 @@ class Cosimo:
   def __init__(self):
     self.name = "Cosimo Giovanni"
     self.surname = "Negri"
-    self.experience = {"Datadog": "Software Engineer Intern"}
-    self.education = {"BSc in Computer Engineering": "PoliMi", "MSc in Computer Science and Engineering": "PoliMi"}
+    self.experience = {"Amazon": "Software Development Engineer Intern", "Datadog": "Software Engineer Intern"}
+    self.education = {"MSc in Computer Science and Engineering": "PoliMi", "BSc in Computer Engineering": "PoliMi", }
     self.hobbys = ["Running", "Chess", "Rubik's Cube", "Music"]
 ```
 
