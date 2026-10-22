@@ -13,8 +13,8 @@ class Cosimo:
         "Datadog": "Software Engineer Intern"
     }
     self.education = {
-        "MSc in Computer Science and Engineering": "PoliMi",
-        "BSc in Computer Engineering": "PoliMi"
+        "PoliMi": "MSc in Computer Science and Engineering",
+        "PoliMi": "BSc in Computer Engineering"
     }
     self.hobbys = ["Running", "Chess", "Rubik's Cube", "Music"]
 ```
@@ -30,6 +30,7 @@ I'm Cosimo Giovanni Negri, a passionate Software Engineer. I am currently pursui
 
 - [`Archduchess`](https://github.com/cosimonegri/Archduchess) - chess engine with a ~2050 elo rating
 - [`ANNDL`](https://github.com/cosimonegri/ANNDL) - Artificial Neural Networks and Deep Learning 2025 challenges at Politecnico di Milano
+- [`PoliMillionaire`](https://github.com/filippogalletta/nlp-project-polimi-2025) - autonomous trivia-solving AI agent using LLMs and retrieval-augmented generation (RAG)
 - [`Codex Naturalis`](https://github.com/cosimonegri/ing-sw-2024-lovino-mierlita-negri-orizio) - desktop application to play the board game Codex Naturalis
 - [`Pathfinding Visualizer`](https://github.com/cosimonegri/pathfinding-visualizer) - web app to visualize the most common pathfinding and maze generation algorithms
 
