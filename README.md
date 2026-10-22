@@ -7,13 +7,13 @@ class Cosimo:
   def __init__(self):
     self.name = "Cosimo Giovanni"
     self.surname = "Negri"
-    self.experience = {"Amazon": "Software Development Engineer Intern", "Datadog": "Software Engineer Intern"}
+    self.experience = {"Google": "Software Engineer Intern", "Amazon": "Software Development Engineer Intern", "Datadog": "Software Engineer Intern"}
     self.education = {"MSc in Computer Science and Engineering": "PoliMi", "BSc in Computer Engineering": "PoliMi", }
     self.hobbys = ["Running", "Chess", "Rubik's Cube", "Music"]
 ```
 
 <br />
-I'm Cosimo Giovanni Negri, a passionate Software Engineer. I am currently pursuing a Master's Degree in Computer Science and Engineering at the Politecnico of Milan.
+I'm Cosimo Giovanni Negri, a passionate Software Engineer. I am currently pursuing a Master's Degree in Computer Science and Engineering at Politecnico di Milano.
 
 <br />
 <br />
@@ -22,8 +22,8 @@ I'm Cosimo Giovanni Negri, a passionate Software Engineer. I am currently pursui
 ---
 
 - [`Archduchess`](https://github.com/cosimonegri/Archduchess) - chess engine with a ~2050 elo rating
-- [`Pathfinding Visualizer`](https://github.com/cosimonegri/pathfinding-visualizer) - web app to visualize the most common pathfinding and maze generation algorithms
 - [`Codex Naturalis`](https://github.com/cosimonegri/ing-sw-2024-lovino-mierlita-negri-orizio) - desktop application to play the board game Codex Naturalis
+- [`Pathfinding Visualizer`](https://github.com/cosimonegri/pathfinding-visualizer) - web app to visualize the most common pathfinding and maze generation algorithms
 - [`Easy.do`](https://github.com/cosimonegri/easy-do) - web app to keep track of tasks and create collaborative projects
 
 <br />
@@ -33,7 +33,7 @@ I'm Cosimo Giovanni Negri, a passionate Software Engineer. I am currently pursui
 
 <div align=center>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cosimogiovanninegri)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cosimonegri)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cosimogiovanninegri@gmail.com)
 
 <div>
